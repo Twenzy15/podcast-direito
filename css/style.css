@@ -1,0 +1,40 @@
+/* PÁGINA INTEIRA */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+}
+html,body,.webview{
+  height: 100%;
+  background-color: #771010;
+}
+.topo{
+  width: 100%;
+  height: 5%;
+  background-color: white;
+}
+.titulo h1{
+  color: white;
+  text-align: center;
+  margin-top: 30%;
+  margin-bottom: 50%;
+}
+.subtitulo p{
+  color: white;
+  text-align: center;
+}
+.footer{
+  width: 100%;
+  height: 5%;
+  background-color: white;
+  position: fixed;
+  bottom: 0;
+}
+.grupo h2, .grupo p{
+  color: white;
+  text-align: center;
+}
+.grupo{
+  margin-top: 30%;
+}
